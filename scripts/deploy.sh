@@ -7,7 +7,7 @@ if [ $TRAVIS_BRANCH == "master" ] ; then
     # initialize the git repo and push it to server
     git init
     
-    git remote add deploy "deploy@cemalkilic.net:/var/www/cemalkilic.net"
+    git remote add deploy "deploy@deploy.cemalkilic.net:/var/www/cemalkilic.net"
     git config user.name "Travis CI"
     git config user.email "cemalkilic96+travis@gmail.com"
    

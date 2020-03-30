@@ -1,6 +1,6 @@
 language: php
 addons:
-  - ssh_known_hosts: cemalkilic.net
+  - ssh_known_hosts: deploy.cemalkilic.net
 before_install:
   - bash scripts/install.sh
 script:

@@ -1,4 +1,4 @@
-language: php
+language: minimal
 addons:
   - ssh_known_hosts: deploy.cemalkilic.net
 before_install:

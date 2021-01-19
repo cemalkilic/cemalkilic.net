@@ -2,5 +2,5 @@
 
 set -x
 
-# nothing for now
-echo "No build needed!"
+# Generate the content
+hugo -v

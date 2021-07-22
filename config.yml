@@ -47,7 +47,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Hello \U0001F44B I am Cemal"
-        subtitle: "software engineer @[jotform](http://www.jotform.com). based in Izmir, Turkey."
+        subtitle: "software engineer @[spark](https://www.spark.net). based in Berlin, Germany."
         # buttons:
         #     - name: Posts
         #       url: posts
@@ -57,7 +57,7 @@ params:
     # TODO :: Enable home-info mode when blog is published
     homeInfoParams:
         Title: "Hello \U0001F44B I am Cemal"
-        Content: "software engineer @[jotform](https://www.jotform.com). based in Izmir, Turkey. <br />Blog in pgorerss"
+        Content: "software engineer @[spark](https://www.spark.net). based in Berlin, Germany. <br />Blog in progress"
 
     socialIcons:
         - name: email

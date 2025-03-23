@@ -1,9 +1,0 @@
-language: minimal
-addons:
-  - ssh_known_hosts: deploy.cemalkilic.net
-before_install:
-  - bash scripts/install.sh
-script:
-  - bash scripts/build.sh
-after_success:
-  - bash scripts/deploy.sh

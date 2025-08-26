@@ -44,7 +44,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: "Hello \U0001F44B I am Cemal"
-        subtitle: "software engineer based in Berlin, Germany."
+        subtitle: "software engineer @[supabase](https://supabase.com).  based in Berlin, Germany."
         # buttons:
         #     - name: Posts
         #       url: posts
